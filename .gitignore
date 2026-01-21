@@ -1,0 +1,15 @@
+# ROS 2
+build/
+install/
+log/
+
+# YOLO / Runtime
+runs/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
